@@ -63,4 +63,4 @@ jobs:
           app-name: 'clcaat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6029CB910604264980A9DF5A038424E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D689440F534240DE9129517AF251E46C }}
